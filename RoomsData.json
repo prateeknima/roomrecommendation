@@ -1,0 +1,615 @@
+[{
+	"reference":"60961869",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+
+{
+	"reference":"60961870",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+
+{
+	"reference":"60961871",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+
+{
+	"reference":"60961872",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+
+{
+	"reference":"60961873",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961874",
+	"roomType":"FAMILY",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"4",
+	"price":"400",
+	"priceModel":"pu"
+
+},
+{
+	"reference":"60961875",
+	"roomType":"FAMILY",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"4",
+	"price":"400",
+	"priceModel":"pu"
+
+},
+
+{
+	"reference":"60961876",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+
+{
+	"reference":"60961877",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961878",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961879",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961880",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961881",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961882",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961883",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961884",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961885",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961886",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961887",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961888",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961889",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961890",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961891",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961892",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961893",
+	"roomType":"DOUBLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"2",
+	"price":"120",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961894",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961895",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961896",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961897",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961898",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961899",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961900",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961901",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961902",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961903",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961904",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961905",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961906",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961907",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961908",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961909",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961910",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961911",
+	"roomType":"TWIN",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"1",
+	"maxGuests":"2",
+	"price":"95",
+	"priceModel":"pp"
+
+},
+
+{
+	"reference":"60961912",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961913",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961914",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961915",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961916",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961917",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961918",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961919",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+{
+	"reference":"60961920",
+	"roomType":"TWINTRIPLE",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"3",
+	"price":"70",
+	"priceModel":"pp"
+
+},
+
+{
+	"reference":"60961921",
+	"roomType":"FAMILY",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"4",
+	"price":"400",
+	"priceModel":"pu"
+
+},
+{
+	"reference":"60961922",
+	"roomType":"FAMILY",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"4",
+	"price":"400",
+	"priceModel":"pu"
+
+},
+{
+	"reference":"60961923",
+	"roomType":"FAMILY",
+	"startDate":"2020-09-01",
+	"endDate":"2020-09-08",
+	"minGuests":"2",
+	"maxGuests":"4",
+	"price":"400",
+	"priceModel":"pu"
+
+}
+
+]
